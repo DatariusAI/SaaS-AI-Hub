@@ -1,0 +1,29 @@
+{
+  "arxiv_query": "abs:\"software as a service\" OR abs:SaaS OR abs:\"multi-tenant\" OR abs:\"cloud-native\"",
+  "arxiv_max": 8,
+  "repos_per_section": 6,
+  "since_days": 365,
+  "code_sections": [
+    {
+      "key": "PROJ",
+      "queries": [
+        "saas boilerplate",
+        "saas starter"
+      ]
+    },
+    {
+      "key": "CODE",
+      "queries": [
+        "multi-tenant saas",
+        "topic:saas ai"
+      ]
+    },
+    {
+      "key": "COMM",
+      "queries": [
+        "ai saas",
+        "saas llm"
+      ]
+    }
+  ]
+}
