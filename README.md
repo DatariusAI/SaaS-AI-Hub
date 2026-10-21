@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **multi-tenant SaaS, clou
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-10-20 04:36 UTC_
+_Last refreshed: 2026-10-21 04:37 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -38,11 +38,11 @@ Most-starred GitHub repositories updated in the last 12 months.
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
 | [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) | Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, Stripe, and Cloudflare Workers. Production-ready monorepo for building fa | TypeScript | 23,696 | 2026-10-19 |
-| [nextjs/saas-starter](https://github.com/nextjs/saas-starter) | Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui. | TypeScript | 16,193 | 2025-12-11 |
-| [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) | A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Backg | MDX | 16,125 | 2026-10-19 |
-| [ixartz/SaaS-Boilerplate](https://github.com/ixartz/SaaS-Boilerplate) | 🚀🎉📚 SaaS Boilerplate built with Next.js + Tailwind CSS + Shadcn UI + TypeScript. ⚡️ Full-stack React application with Auth, Multi-tenancy, R | TypeScript | 7,452 | 2026-10-01 |
-| [thedevdojo/wave](https://github.com/thedevdojo/wave) | Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰 | CSS | 6,550 | 2026-07-31 |
-| [boxyhq/saas-starter-kit](https://github.com/boxyhq/saas-starter-kit) | 🔥 Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate 🚀 | TypeScript | 4,953 | 2026-07-20 |
+| [nextjs/saas-starter](https://github.com/nextjs/saas-starter) | Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui. | TypeScript | 16,192 | 2025-12-11 |
+| [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) | A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Backg | MDX | 16,131 | 2026-10-19 |
+| [ixartz/SaaS-Boilerplate](https://github.com/ixartz/SaaS-Boilerplate) | 🚀🎉📚 SaaS Boilerplate built with Next.js + Tailwind CSS + Shadcn UI + TypeScript. ⚡️ Full-stack React application with Auth, Multi-tenancy, R | TypeScript | 7,455 | 2026-10-01 |
+| [thedevdojo/wave](https://github.com/thedevdojo/wave) | Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰 | CSS | 6,552 | 2026-07-31 |
+| [boxyhq/saas-starter-kit](https://github.com/boxyhq/saas-starter-kit) | 🔥 Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate 🚀 | TypeScript | 4,954 | 2026-07-20 |
 <!-- PROJ:END -->
 
 ## 💻 Code samples and SDKs
@@ -51,11 +51,11 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- CODE:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows | Python | 77,462 | 2026-09-18 |
-| [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) | A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Backg | MDX | 16,125 | 2026-10-19 |
-| [OpenByteInc/QuantDinger](https://github.com/OpenByteInc/QuantDinger) | Open-source AI Trading OS, agent trading, and vibe trading, with Jev System One integration. Research, build Python strategies, backtest, an | Python | 12,943 | 2026-10-19 |
+| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows | Python | 77,548 | 2026-09-18 |
+| [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) | A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Backg | MDX | 16,131 | 2026-10-19 |
+| [OpenByteInc/QuantDinger](https://github.com/OpenByteInc/QuantDinger) | Open-source AI Trading OS, agent trading, and vibe trading, with Jev System One integration. Research, build Python strategies, backtest, an | Python | 12,967 | 2026-10-19 |
 | [juicycleff/ultimate-backend](https://github.com/juicycleff/ultimate-backend) | Multi tenant SaaS starter kit with cqrs graphql microservice architecture, apollo federation, event source and authentication | TypeScript | 2,906 | 2026-02-16 |
-| [jeremylongshore/tons-of-skills-marketplace](https://github.com/jeremylongshore/tons-of-skills-marketplace) | Model-agnostic agent-skills platform with a harness-free canonical layer, verified adapters, and the ccpi package manager. Explore at tonsof | Python | 2,851 | 2026-10-20 |
+| [jeremylongshore/tons-of-skills-marketplace](https://github.com/jeremylongshore/tons-of-skills-marketplace) | Model-agnostic agent-skills platform with a harness-free canonical layer, verified adapters, and the ccpi package manager. Explore at tonsof | Python | 2,855 | 2026-10-21 |
 | [tenancy/multi-tenant](https://github.com/tenancy/multi-tenant) | Run multiple websites using the same Laravel installation while keeping tenant specific data separated for fully independent multi-domain se | PHP | 2,601 | 2026-05-30 |
 <!-- CODE:END -->
 
@@ -65,12 +65,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- COMM:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows | Python | 77,462 | 2026-09-18 |
-| [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) | 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作 | Java | 39,914 | 2026-10-09 |
-| [Dujltqzv/Some-Many-Books](https://github.com/Dujltqzv/Some-Many-Books) | 个人收藏书籍列表 PDF下载 百度云 电子书下载 ==礠緢舝揽躋瑥玮獺捈遍縤湑玤怃顷橲誕鞀覄琤镾忺鬵齶陛飙驨庤憗诡熇荝蹿巾鴡饌斄碀遯遠傪囷詊偍澐匁庾曾戢悒猄迵徬摵宬甂孺郳糣螨吮覘綔氊豀纴嫤惗跚銸莻箤惉輘芴蛣謙蘲脐冇穖謥貛璕掸災廟釨儼滘茧懦蝾谘睃玿鱪飄雓棽歗闸譐争癒搉谠栝陶林焉 |  | 24,982 | 2026-06-18 |
-| [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) | A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Backg | MDX | 16,125 | 2026-10-19 |
-| [logto-io/logto](https://github.com/logto-io/logto) | 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC. | TypeScript | 14,710 | 2026-10-20 |
-| [OpenByteInc/QuantDinger](https://github.com/OpenByteInc/QuantDinger) | Open-source AI Trading OS, agent trading, and vibe trading, with Jev System One integration. Research, build Python strategies, backtest, an | Python | 12,943 | 2026-10-19 |
+| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows | Python | 77,548 | 2026-09-18 |
+| [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) | 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作 | Java | 39,945 | 2026-10-09 |
+| [Dujltqzv/Some-Many-Books](https://github.com/Dujltqzv/Some-Many-Books) | 个人收藏书籍列表 PDF下载 百度云 电子书下载 ==礠緢舝揽躋瑥玮獺捈遍縤湑玤怃顷橲誕鞀覄琤镾忺鬵齶陛飙驨庤憗诡熇荝蹿巾鴡饌斄碀遯遠傪囷詊偍澐匁庾曾戢悒猄迵徬摵宬甂孺郳糣螨吮覘綔氊豀纴嫤惗跚銸莻箤惉輘芴蛣謙蘲脐冇穖謥貛璕掸災廟釨儼滘茧懦蝾谘睃玿鱪飄雓棽歗闸譐争癒搉谠栝陶林焉 |  | 25,018 | 2026-06-18 |
+| [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) | A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Backg | MDX | 16,131 | 2026-10-19 |
+| [logto-io/logto](https://github.com/logto-io/logto) | 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC. | TypeScript | 14,730 | 2026-10-21 |
+| [OpenByteInc/QuantDinger](https://github.com/OpenByteInc/QuantDinger) | Open-source AI Trading OS, agent trading, and vibe trading, with Jev System One integration. Research, build Python strategies, backtest, an | Python | 12,967 | 2026-10-19 |
 <!-- COMM:END -->
 
 ## 📚 Free learning resources
