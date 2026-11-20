@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **multi-tenant SaaS, clou
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-11-19 04:28 UTC_
+_Last refreshed: 2026-11-20 04:28 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -21,6 +21,7 @@ Newest papers on arXiv for this topic, newest first.
 <!-- ARXIV:START -->
 | Date | Paper | Authors |
 |---|---|---|
+| 2026-11-18 | [Geometry, Local Minimax Risk, and the Limits of Sample Average Approximation in Linear Stochastic Optimization](https://arxiv.org/abs/2611.25007) | Hanbo Yang et al. |
 | 2026-11-18 | [ScaleBench: An Extensible and Reproducible Experimental Platform for Kubernetes Autoscaling Research](https://arxiv.org/abs/2611.24398) | Ze Wang et al. |
 | 2026-11-18 | [Rented Oscillations: Multi-Tenant Data Center Workload Synchronization Attacks and Mitigation](https://arxiv.org/abs/2611.23666) | Zaint A. Alexakis et al. |
 | 2026-11-17 | [Propose with the Gradient, Accept with the Loss: One Hedged Attack for Pixel-Sparse Robustness](https://arxiv.org/abs/2611.22596) | Hon Ming Yan et al. |
@@ -28,7 +29,6 @@ Newest papers on arXiv for this topic, newest first.
 | 2026-11-16 | [The Bipartible Architecture Pattern: Transparently Directing HTTP Requests over InfiniBand](https://arxiv.org/abs/2611.21442) | Richard Henwood et al. |
 | 2026-11-16 | [Where the Evidence Lives: Measuring Privacy and Diagnosability of Exported AI-Agent Traces](https://arxiv.org/abs/2611.20389) | Chang Xu et al. |
 | 2026-11-15 | [Sparse Rotatable Arrays (SRAs) for Cell-Free MIMO: Network-Wide Design of Antenna Activation and Panel Orientation](https://arxiv.org/abs/2611.19959) | Ailing Zheng et al. |
-| 2026-11-12 | [SBA: A Practical Memory Performance Denial-of-Service Attack](https://arxiv.org/abs/2611.16189) | Amin Mamandipoor et al. |
 <!-- ARXIV:END -->
 
 ## 🚀 Projects (official and flagship)
@@ -38,9 +38,9 @@ Most-starred GitHub repositories updated in the last 12 months.
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
 | [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) | Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, Stripe, and Cloudflare Workers. Production-ready monorepo for building fa | TypeScript | 23,723 | 2026-11-09 |
-| [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) | A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Backg | MDX | 16,372 | 2026-11-11 |
-| [nextjs/saas-starter](https://github.com/nextjs/saas-starter) | Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui. | TypeScript | 16,259 | 2025-12-11 |
-| [ixartz/SaaS-Boilerplate](https://github.com/ixartz/SaaS-Boilerplate) | 🚀🎉📚 SaaS Boilerplate built with Next.js + Tailwind CSS + Shadcn UI + TypeScript. ⚡️ Full-stack React application with Auth, Multi-tenancy, R | TypeScript | 7,495 | 2026-11-01 |
+| [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) | A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Backg | MDX | 16,379 | 2026-11-11 |
+| [nextjs/saas-starter](https://github.com/nextjs/saas-starter) | Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui. | TypeScript | 16,260 | 2025-12-11 |
+| [ixartz/SaaS-Boilerplate](https://github.com/ixartz/SaaS-Boilerplate) | 🚀🎉📚 SaaS Boilerplate built with Next.js + Tailwind CSS + Shadcn UI + TypeScript. ⚡️ Full-stack React application with Auth, Multi-tenancy, R | TypeScript | 7,496 | 2026-11-01 |
 | [thedevdojo/wave](https://github.com/thedevdojo/wave) | Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰 | PHP | 6,549 | 2026-11-17 |
 | [boxyhq/saas-starter-kit](https://github.com/boxyhq/saas-starter-kit) | 🔥 Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate 🚀 | TypeScript | 4,972 | 2026-07-20 |
 <!-- PROJ:END -->
@@ -51,12 +51,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- CODE:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows | Python | 79,832 | 2026-09-18 |
-| [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) | A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Backg | MDX | 16,372 | 2026-11-11 |
-| [OpenByteInc/QuantDinger](https://github.com/OpenByteInc/QuantDinger) | The most complete open-source, self-hosted Agentic Trading OS—AI research, Python strategies, factor discovery, backtesting, optimization, p | Python | 13,857 | 2026-11-16 |
-| [jeremylongshore/tons-of-skills-marketplace](https://github.com/jeremylongshore/tons-of-skills-marketplace) | Model-agnostic agent-skills platform with a harness-free canonical layer, verified adapters, and the ccpi package manager. Explore at tonsof | Python | 2,928 | 2026-11-17 |
-| [juicycleff/ultimate-backend](https://github.com/juicycleff/ultimate-backend) | Multi tenant SaaS starter kit with cqrs graphql microservice architecture, apollo federation, event source and authentication | TypeScript | 2,908 | 2026-02-16 |
-| [tenancy/multi-tenant](https://github.com/tenancy/multi-tenant) | Run multiple websites using the same Laravel installation while keeping tenant specific data separated for fully independent multi-domain se | PHP | 2,602 | 2026-05-30 |
+| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows | Python | 79,907 | 2026-09-18 |
+| [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) | A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Backg | MDX | 16,379 | 2026-11-11 |
+| [OpenByteInc/QuantDinger](https://github.com/OpenByteInc/QuantDinger) | The most complete open-source, self-hosted Agentic Trading OS—AI research, Python strategies, factor discovery, backtesting, optimization, p | Python | 13,876 | 2026-11-19 |
+| [jeremylongshore/tons-of-skills-marketplace](https://github.com/jeremylongshore/tons-of-skills-marketplace) | Model-agnostic agent-skills platform with a harness-free canonical layer, verified adapters, and the ccpi package manager. Explore at tonsof | Python | 2,933 | 2026-11-19 |
+| [juicycleff/ultimate-backend](https://github.com/juicycleff/ultimate-backend) | Multi tenant SaaS starter kit with cqrs graphql microservice architecture, apollo federation, event source and authentication | TypeScript | 2,907 | 2026-02-16 |
+| [tenancy/multi-tenant](https://github.com/tenancy/multi-tenant) | Run multiple websites using the same Laravel installation while keeping tenant specific data separated for fully independent multi-domain se | PHP | 2,600 | 2026-05-30 |
 <!-- CODE:END -->
 
 ## 🌍 Community projects
@@ -65,12 +65,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- COMM:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows | Python | 79,832 | 2026-09-18 |
-| [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) | 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作 | Java | 40,524 | 2026-11-13 |
-| [Dujltqzv/Some-Many-Books](https://github.com/Dujltqzv/Some-Many-Books) | 个人收藏书籍列表 PDF下载 百度云 电子书下载 ==礠緢舝揽躋瑥玮獺捈遍縤湑玤怃顷橲誕鞀覄琤镾忺鬵齶陛飙驨庤憗诡熇荝蹿巾鴡饌斄碀遯遠傪囷詊偍澐匁庾曾戢悒猄迵徬摵宬甂孺郳糣螨吮覘綔氊豀纴嫤惗跚銸莻箤惉輘芴蛣謙蘲脐冇穖謥貛璕掸災廟釨儼滘茧懦蝾谘睃玿鱪飄雓棽歗闸譐争癒搉谠栝陶林焉 |  | 26,263 | 2026-06-18 |
-| [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) | A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Backg | MDX | 16,372 | 2026-11-11 |
-| [logto-io/logto](https://github.com/logto-io/logto) | 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC. | TypeScript | 14,953 | 2026-11-19 |
-| [OpenByteInc/QuantDinger](https://github.com/OpenByteInc/QuantDinger) | The most complete open-source, self-hosted Agentic Trading OS—AI research, Python strategies, factor discovery, backtesting, optimization, p | Python | 13,857 | 2026-11-16 |
+| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows | Python | 79,907 | 2026-09-18 |
+| [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) | 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作 | Java | 40,549 | 2026-11-19 |
+| [Dujltqzv/Some-Many-Books](https://github.com/Dujltqzv/Some-Many-Books) | 个人收藏书籍列表 PDF下载 百度云 电子书下载 ==礠緢舝揽躋瑥玮獺捈遍縤湑玤怃顷橲誕鞀覄琤镾忺鬵齶陛飙驨庤憗诡熇荝蹿巾鴡饌斄碀遯遠傪囷詊偍澐匁庾曾戢悒猄迵徬摵宬甂孺郳糣螨吮覘綔氊豀纴嫤惗跚銸莻箤惉輘芴蛣謙蘲脐冇穖謥貛璕掸災廟釨儼滘茧懦蝾谘睃玿鱪飄雓棽歗闸譐争癒搉谠栝陶林焉 |  | 26,308 | 2026-06-18 |
+| [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) | A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Backg | MDX | 16,379 | 2026-11-11 |
+| [logto-io/logto](https://github.com/logto-io/logto) | 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC. | TypeScript | 14,956 | 2026-11-20 |
+| [OpenByteInc/QuantDinger](https://github.com/OpenByteInc/QuantDinger) | The most complete open-source, self-hosted Agentic Trading OS—AI research, Python strategies, factor discovery, backtesting, optimization, p | Python | 13,876 | 2026-11-19 |
 <!-- COMM:END -->
 
 ## 📚 Free learning resources
